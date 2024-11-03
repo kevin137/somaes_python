@@ -9,7 +9,7 @@ setup(
    url='https://github.com/kevin137/somaes_python',
    license='LICENSE.txt',
    description='This package includes functions created for KISA SoMaEs, Fall 2024',
-   long_description=open('README.txt').read(),
+   long_description=open('README.md').read(),
    install_requires=[
       "numpy >=2.1.2",
       "pandas >= 2.2.3",
